@@ -5,4 +5,5 @@ A simple Python program to take two separate text files that contain a poem and 
 
 * Version 1 - Combines lines from two poems into a random order
 * Version 2 - Combines words from two poems into a random order of lines and a new poem
-* Version 3 - Coming soon
+* Version 3 - Combines words from two poems into a random order, allows the user to select the number of words per lines
+* Version 4 - Coming soon
